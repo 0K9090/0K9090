@@ -2,10 +2,10 @@
 
 I'm 0K9090. 
 
-I program in both Shell Script and Python.
+I program in a few languages.  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,bash,js,html,css)](https://skillicons.dev)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0K9090&theme=dark&layout=compact)  
 Right now I am working on a project called ScratchLang, which is a tool to make Scratch a non-visual programming language.
-I'm also working on sm64ex-omm.sh, which is the OMM Builder ported to Shell Script. It's mainly for people who want to contribute but don't know Python (I didn't know that language at the time).
-
 <!--
 **0K9090/0K9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
